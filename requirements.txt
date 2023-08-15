@@ -1,2 +1,3 @@
 flask
 gunicorn
+pip3 install python-telegram-bot-raw==13.15
